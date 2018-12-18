@@ -42,6 +42,6 @@
   },
   "peerDependencies": {
     "angular": "^1.4.0",
-    "intro.js": "^2.5.0"
+    "intro.js": "^2.9.3"
   }
 }
